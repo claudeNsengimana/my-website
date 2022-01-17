@@ -1,0 +1,29 @@
+.navigation a{
+		float:right;
+		margin-left:5em;
+		text-decoration:none;
+		font-family:courier;
+		font-size:30px;
+	
+}
+.image{
+
+	float:center;
+	height:30%;
+	width:100%;
+	float:right;
+
+}
+.skills{
+	display:flex;
+	float:right;
+	background-color:pink;
+
+
+}
+.achievements{
+	float:right;
+	display:inline-block;
+	
+
+}
